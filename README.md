@@ -174,6 +174,8 @@ API调用的基本流程如下图所示，具体接口说明参见API接口手�
 ### 备注：
 [详细接口介绍可查看“Cocos2d_js-API手册.md”文档](https://github.com/youmesdk/YoumeTalkSDK_JS/blob/master/Cocos2d_js-API%E6%89%8B%E5%86%8C.md)
 
+Talk SDK常见问题->[TALK FAQ](https://github.com/youmesdk/wiki/blob/master/YoumeTalk_FAQ.md)
+
 实际Demo可点击此处下载->[Youme Talk Demo for Cocos2d Js](https://github.com/youmesdk/YoumeTalkDemo_JS)
 
 
